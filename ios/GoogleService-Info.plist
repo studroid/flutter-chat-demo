@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>347976604232-13h782ee23otgsaaiidgeb43jnp1jepd.apps.googleusercontent.com</string>
+	<string>1093003705059-tb6ms9eq2srhvdo85qdvi03boqtt6hal.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.347976604232-13h782ee23otgsaaiidgeb43jnp1jepd</string>
+	<string>com.googleusercontent.apps.1093003705059-tb6ms9eq2srhvdo85qdvi03boqtt6hal</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAdn3U0F35xhx2zUFfz6XPOcNm50erGZS0</string>
+	<string>AIzaSyDK--cGgIhs12K8p6cA-XRihFVWHSXvazw</string>
 	<key>GCM_SENDER_ID</key>
-	<string>347976604232</string>
+	<string>1093003705059</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dfa.flutterChatDemo</string>
+	<string>com.comukha.flutter-chat</string>
 	<key>PROJECT_ID</key>
-	<string>flutterchatdemo</string>
+	<string>flutter-firebase-chat-1aae2</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutterchatdemo.appspot.com</string>
+	<string>flutter-firebase-chat-1aae2.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:347976604232:ios:f43eb2afc88737b9</string>
+	<string>1:1093003705059:ios:19aea33e099a2064</string>
 	<key>DATABASE_URL</key>
-	<string>https://flutterchatdemo.firebaseio.com</string>
+	<string>https://flutter-firebase-chat-1aae2.firebaseio.com</string>
 </dict>
 </plist>
